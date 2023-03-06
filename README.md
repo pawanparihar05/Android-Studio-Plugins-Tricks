@@ -5,12 +5,9 @@
 This is a list of all awesome and useful Android Studio plugins that i personally use. <br/>
 This is mainly to keep them all at one place and share it with the world.
 
-
 #### Spread Some :heart:
 
 [![GitHub stars](https://img.shields.io/github/stars/pawanparihar05/Android-Studio-Plugins-Tricks.svg?style=social&label=Star)](https://github.com/pawanparihar05/Android-Studio-Plugins-Tricks) [![GitHub forks](https://img.shields.io/github/forks/pawanparihar05/Android-Studio-Plugins-Tricks.svg?style=social&label=Fork)](https://github.com/pawanparihar05/Android-Studio-Plugins-Tricks/fork) [![GitHub watchers](https://img.shields.io/github/watchers/pawanparihar05/Android-Studio-Plugins-Tricks.svg?style=social&label=Watch)](https://github.com/pawanparihar05/Android-Studio-Plugins-Tricks)[![GitHub followers](https://img.shields.io/github/followers/pawanparihar05.svg?style=social&label=Follow)](https://github.com/pawanparihar05)
-
-<br/>
 
 
 ### **Plugins**
@@ -60,7 +57,6 @@ Android localization plugin. supports multiple languages and multiple translator
 **[CrashReporter](https://github.com/MindorksOpenSource/CrashReporter)** <br/>
 Handy tool to capture app crashes and save them in a file. <br/>
 
-<br/>
 
 ### Find this project useful ? :heart:
 * Support it by clicking the :star: button on the upper right of this page. :v:
