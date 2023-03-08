@@ -57,6 +57,9 @@ Android localization plugin. supports multiple languages and multiple translator
 **[CrashReporter](https://github.com/MindorksOpenSource/CrashReporter)** <br/>
 Handy tool to capture app crashes and save them in a file. <br/>
 
+**[Awesome Search](https://awesomelists.top/)** <br/>
+This website has all the Awesome lists available on github <br/>
+
 
 ### Find this project useful ? :heart:
 * Support it by clicking the :star: button on the upper right of this page. :v:
